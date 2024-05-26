@@ -1,0 +1,11 @@
+  A B C D E F G H I J         A B C D E F G H I J 
+0 - - M . . . M M - -       0 M X X X X . M . X . 
+1 M X M M - M - M B -       1 M M . M M . . M X M 
+2 M M M M X X X - - -       2 M X M M M M M M . M 
+3 M X X M M M - - - M       3 . M M . M M M X . . 
+4 M - - - M M X X X X       4 M X X . . . M . M M 
+5 C C - M . - - - - -       5 M M M . M M X M . . 
+6 M M - M - M - - M M       6 M M . M M . X M X M 
+7 X M M X M - X - . .       7 M . X X X . . M . . 
+8 X M - X - M M - - M       8 M . . M . M M . M M 
+9 - M M X M M - B - .       9 X X X M . X M M . M 
